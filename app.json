@@ -1,0 +1,26 @@
+{
+  "id": "7b8c9d0e-5f4a-4b3c-8d2e-6f7a8b9c0d1e",
+  "name": "CreateDimensions",
+  "publisher": "Northern Partners ApS",
+  "version": "1.0.0.14",
+  "brief": "Create Business Central Dimensions",
+  "description": "Automatically create or skip dimensions in Business Central from a list",
+  "platform": "23.0.0.0",
+  "application": "23.0.0.0",
+  "target": "Cloud",
+  "runtime": "11.0",
+  "idRanges": [
+    {
+      "from": 50150,
+      "to": 50199
+    }
+  ],
+  "features": [
+    "NoImplicitWith"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  }
+}
